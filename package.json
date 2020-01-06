@@ -4,15 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "opencollective postinstall"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "node-cron": "^2.0.3",
-    "opencollective-postinstall": "^2.0.2"
+    "node-cron": "^2.0.3"
   }
 }
